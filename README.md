@@ -32,6 +32,7 @@ applications that solve real business problems.
 -   Python
 -   JavaScript
 -   SQL
+-   R
 
 ### Frontend
 
