@@ -1,8 +1,8 @@
-👋 Hi, I’m Odaho Mudau
+*👋 Hi, I’m Odaho Mudau*
 
 I’m an Informatics and Data Science student with a strong focus on Data Engineering, Business Intelligence, and AI-driven systems. I specialize in designing scalable data workflows, building analytics dashboards, and developing automation tools that solve real business problems.
 
-My work bridges software engineering and data strategy — from building web applications and automation SaaS tools to designing data pipelines and analytics systems that drive decision-making.
+My work bridges software engineering and data strategy  from building web applications and automation SaaS tools to designing data pipelines and analytics systems that drive decision-making.
 
 I’m particularly interested in building systems that are:
 
